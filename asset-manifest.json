@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/page-promocoes/static/css/main.4cb5cc89.css",
-    "main.js": "/page-promocoes/static/js/main.c7d720c8.js",
+    "main.css": "/page-promocoes/static/css/main.b140908c.css",
+    "main.js": "/page-promocoes/static/js/main.604d3933.js",
     "static/js/787.f4be310d.chunk.js": "/page-promocoes/static/js/787.f4be310d.chunk.js",
     "static/media/roupa-c.jpg": "/page-promocoes/static/media/roupa-c.272897d74c7e1b2806c3.jpg",
     "static/media/banner-2.png": "/page-promocoes/static/media/banner-2.8db653e493fc6991eedd.png",
@@ -17,12 +17,12 @@
     "static/media/masc-b.webp": "/page-promocoes/static/media/masc-b.c815b3a8e4f1de3211a5.webp",
     "static/media/masc-d.webp": "/page-promocoes/static/media/masc-d.4b633e881ff930e14bec.webp",
     "index.html": "/page-promocoes/index.html",
-    "main.4cb5cc89.css.map": "/page-promocoes/static/css/main.4cb5cc89.css.map",
-    "main.c7d720c8.js.map": "/page-promocoes/static/js/main.c7d720c8.js.map",
+    "main.b140908c.css.map": "/page-promocoes/static/css/main.b140908c.css.map",
+    "main.604d3933.js.map": "/page-promocoes/static/js/main.604d3933.js.map",
     "787.f4be310d.chunk.js.map": "/page-promocoes/static/js/787.f4be310d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4cb5cc89.css",
-    "static/js/main.c7d720c8.js"
+    "static/css/main.b140908c.css",
+    "static/js/main.604d3933.js"
   ]
 }
