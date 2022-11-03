@@ -1,13 +1,12 @@
 {
   "files": {
-    "main.css": "/page-promocoes/static/css/main.088f03fb.css",
-    "main.js": "/page-promocoes/static/js/main.8a995808.js",
+    "main.css": "/page-promocoes/static/css/main.4cb5cc89.css",
+    "main.js": "/page-promocoes/static/js/main.c7d720c8.js",
     "static/js/787.f4be310d.chunk.js": "/page-promocoes/static/js/787.f4be310d.chunk.js",
     "static/media/roupa-c.jpg": "/page-promocoes/static/media/roupa-c.272897d74c7e1b2806c3.jpg",
     "static/media/banner-2.png": "/page-promocoes/static/media/banner-2.8db653e493fc6991eedd.png",
     "static/media/roupa-d.jpg": "/page-promocoes/static/media/roupa-d.faad7681720e13ddfb7e.jpg",
     "static/media/roupa-g.jpg": "/page-promocoes/static/media/roupa-g.ac8d749bf64a6cbe4d57.jpg",
-    "static/media/banner-1.png": "/page-promocoes/static/media/banner-1.3e37e76a26879e8c2431.png",
     "static/media/roupa-b.jpg": "/page-promocoes/static/media/roupa-b.67515a4c27ad2e1117a1.jpg",
     "static/media/roupa-f.jpg": "/page-promocoes/static/media/roupa-f.c8222cc928fe087d4f27.jpg",
     "static/media/masc-e.webp": "/page-promocoes/static/media/masc-e.1d00790436e333ca5e39.webp",
@@ -18,12 +17,12 @@
     "static/media/masc-b.webp": "/page-promocoes/static/media/masc-b.c815b3a8e4f1de3211a5.webp",
     "static/media/masc-d.webp": "/page-promocoes/static/media/masc-d.4b633e881ff930e14bec.webp",
     "index.html": "/page-promocoes/index.html",
-    "main.088f03fb.css.map": "/page-promocoes/static/css/main.088f03fb.css.map",
-    "main.8a995808.js.map": "/page-promocoes/static/js/main.8a995808.js.map",
+    "main.4cb5cc89.css.map": "/page-promocoes/static/css/main.4cb5cc89.css.map",
+    "main.c7d720c8.js.map": "/page-promocoes/static/js/main.c7d720c8.js.map",
     "787.f4be310d.chunk.js.map": "/page-promocoes/static/js/787.f4be310d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.088f03fb.css",
-    "static/js/main.8a995808.js"
+    "static/css/main.4cb5cc89.css",
+    "static/js/main.c7d720c8.js"
   ]
 }
