@@ -21,7 +21,7 @@ export default function Header() {
 
                     <div className="w-full">
                          <form className="relative mx-auto w-3/4 md:mx-0">
-                              <input className="rounded border-b-2 border-red-500 w-full px-10 py-2 outline outline-none placeholder:text-sm" id="" type="text" name="" placeholder="Procure na loja" />
+                              <input className="rounded-full border border-gray-500 w-full px-10 py-2 outline outline-none placeholder:text-sm" id="" type="text" name="" placeholder="Procure na loja" />
                               <button className="absolute top-2 left-3">
                                    <span><svg className="h-5 w-5 text-gray-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">  <circle cx="11" cy="11" r="8" />  <line x1="21" y1="21" x2="16.65" y2="16.65" /></svg></span>
                               </button>
